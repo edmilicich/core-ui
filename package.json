@@ -1,6 +1,6 @@
 {
   "name": "core-ui",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "repository": "https://github.com/edmilicich/core-ui.git",
   "publishConfig": {
